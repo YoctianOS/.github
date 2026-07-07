@@ -1,4 +1,4 @@
-# YoctianOS
+# <p align="center"><strong>![YoctianOS](https://github.com/YoctianOS/.github/blob/ad4c507ed5727c657aae43ae7d753fe252d74050/profile/Logo.png)</strong></p>
 
 **YoctianOS** is a lightweight, experimental operating system built for curiosity, exploration, and clean system design.  
 It’s a place to prototype ideas, challenge assumptions, and push small components to do interesting things.
